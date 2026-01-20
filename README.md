@@ -2,7 +2,6 @@
 
 A sleek, full-stack todo application with a beautiful dark GitHub-inspired theme. Built with React, Node.js, Express, and MongoDB.
 
-![JTask Preview](https://img.shields.io/badge/Status-Live-brightgreen) ![License](https://img.shields.io/badge/License-MIT-blue)
 
 ## ✨ Features
 
@@ -39,8 +38,7 @@ A sleek, full-stack todo application with a beautiful dark GitHub-inspired theme
 
 ## 🚀 Live Demo
 
-- **Frontend**: [todo2-frountend.vercel.app](https://todo2-frountend.vercel.app)
-- **Backend API**: [todo-2-seven-smoky.vercel.app](https://todo-2-seven-smoky.vercel.app)
+- **DEMO**: [TODO APP](https://jaswanth-todo2-frontend.vercel.app/)
 
 ## 📁 Project Structure
 
